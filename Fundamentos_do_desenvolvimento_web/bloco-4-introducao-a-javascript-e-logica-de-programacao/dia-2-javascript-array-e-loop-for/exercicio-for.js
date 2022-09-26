@@ -1,10 +1,10 @@
 // CASO 1 - usando o FOR
 
-let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
+/* let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
 
-for (let index = 0 ; index< groceryList.length; index += 1){
+for (let index = 0 ; index< groceryList.length; index =+ 1){
     console.log(groceryList[index]);
-}
+} */
 
 //CASO 2 - uso do For/of
 
